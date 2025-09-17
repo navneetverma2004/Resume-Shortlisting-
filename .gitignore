@@ -1,0 +1,4 @@
+temp_resumes/
+*.pyc
+__pycache__/
+
